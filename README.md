@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ###Hi there 👋-->
 
 <!--
 **gaurika05/gaurika05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Home](https://github.com/gaurika05/gaurika05/assets/97402240/08bab3f6-9ecc-43b5-be94-bf2fd9d5afb7)
+
 - 🔭 I’m currently working on a research project based on sentiment analysis.
 - 👯 I’m looking to collaborate on projects including various Machine Learning and Deep Learning related stuff.
