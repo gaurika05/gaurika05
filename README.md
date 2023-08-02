@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects including various Machine Learning and Deep Learning related stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurika05)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gaurika05/count.svg" />
+</p>
