@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Home 2](https://github.com/gaurika05/gaurika05/assets/97402240/502ba2c3-f9a4-40d5-b70e-50ad7c1dd9a9)
 
-- 🔭 I’m currently working on a research project based on sentiment analysis.
+- 🔭 I’m currently working on a ML and AI instegrated approach based projects.
 - 👯 I’m looking to collaborate on projects including various Machine Learning and Deep Learning related stuff.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurika05)](https://github.com/anuraghazra/github-readme-stats)
