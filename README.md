@@ -20,9 +20,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on various Machine Learning and Deep Learning-related projects.
 - A Data Engineer Intern at IIT Madras, AI4Bharat org- a prominent Indian AI Lab
 
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+  </a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurika05)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gaurika05/count.svg" />
 </p>
+
