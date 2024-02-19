@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,java,tensorflow,html,vscode,github,aws,selenium,mysql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,pytorch,tensorflow,c,cpp,java,html,css,vscode,github,selenium,mysql&perline=14" />
   </a>
 </p>
 
