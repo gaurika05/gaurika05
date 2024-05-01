@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Home 2](https://github.com/gaurika05/gaurika05/assets/97402240/502ba2c3-f9a4-40d5-b70e-50ad7c1dd9a9)
 
 - I’m currently working on ML and AI-integrated approach-based projects.
-- I’m looking to collaborate on various Machine Learning and Deep Learning-related projects.
+- I’m open to collaborate on various Machine Learning and Deep Learning-related projects.
 - A Data Engineer Intern at IIT Madras, AI4Bharat org- a prominent Indian AI Lab
 
 <!--tech stack icons-->
