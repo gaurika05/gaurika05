@@ -27,11 +27,3 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,pytorch,tensorflow,c,cpp,java,html,css,vscode,github,selenium,mysql&perline=14" />
   </a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurika05)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gaurika05/count.svg" />
-</p>
-
